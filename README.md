@@ -11,3 +11,7 @@ GrandMA steps:
 
 Companion steps:
 1. install generic osc instance. click buttons. add button. make it use generic osc to send command /GMA3/cmd/Chat "Testicles, 1, 2, 3."
+
+
+chatjoin "testicles123"
+chat "this is my testicle message"
